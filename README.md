@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Notes-taking
+# Notes-taking link - https://pravarjain19.github.io/Notes-taking
 React project which uses components , state and hook to handle crud operation
 =======
 # Getting Started with Create React App
